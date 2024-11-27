@@ -129,7 +129,7 @@ Si después de instalar el bot en Termux y iniciar la session del bot (el numero
 
 ### **🤖 Para activar 24/7 (termux)**
 
-> comando para obtener la bot 24/7 en termux
+> comando para obtener la bot 24/7 en termux (una vez apaues tu cel se apagara el bot)
 
 ```bash
 npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs
