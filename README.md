@@ -167,7 +167,6 @@ npm start
 #### **Comando Para Actualizar Akitzu-Bot-MD Automaticamente**
 
 <details>
- <summary><b> 🌸 Comando:</b></summary>
 
  ```bash
 grep -q 'bash\|wget' <(dpkg -l) || apt install -y bash wget && wget -O - https://raw.githubusercontent.com/MizukiTony/Akitzu-Bot-MD/Akitzu/update.sh | bash
