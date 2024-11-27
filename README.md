@@ -48,7 +48,7 @@
 <details>
  <summary><b> 🌸 Comandos</b></summary>
 
-#### **✨️ Instalación automatica por termux**
+#### **✨️ Instalación automatica por termux (No recomendado)**
 
 > Copia los códigos uno por uno, no los pegues todos juntos a la vez.
 
@@ -60,7 +60,7 @@ termux-setup-storage
 apt update -y && yes | apt upgrade && pkg install -y bash wget mpv && wget -O - https://raw.https://github.com/MizukiTony/Akitzu-Bot-MD.git/master/megu.sh | bash
 ```
 
-#### **🌺 Instalación manual por termux**
+#### **🌺 Comandos De Instalacion manual por termux (Recomendado)**
 
 ```bash
 termux-setup-storage
