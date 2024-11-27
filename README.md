@@ -164,6 +164,12 @@ npm install && npm update && npm audit --force
 ```bash
 npm start
 ```
+#### **Comando Para Actualizar Akitzu-Bot-MD Automaticamente**
+
+```bash
+grep -q 'bash\|wget' <(dpkg -l) || apt install -y bash wget && wget -O - https://raw.githubusercontent.com/MizukiTony/Akitzu-Bot-MD/Akitzu/update.sh | bash
+```
+
 
 </details>
 
