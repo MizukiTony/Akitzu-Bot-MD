@@ -31,7 +31,7 @@ global.libreria = 'Baileys'
 global.baileys = 'V 6.7.8'
 global.vs = '3.0.3'
 global.languaje = 'Español'
-global.nameqr = 'Akitzu-Bot-MD'
+global.nameqr = 'Akitzu-Bot'
 global.sessions ='AkitzuSession'
 global.jadi = '⏤͟͞ू⃪ ፝͜⁞𝐀𝐤𝐢𝐭𝐳𝐮⃟⌑ᴶᵃᵈᶦᴮᵒᵗ✰⃔࿐ೄྀ'
 
