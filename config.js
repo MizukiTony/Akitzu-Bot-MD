@@ -396,7 +396,7 @@ global.rpgshop = { // Tienda
     string = string.toLowerCase();
     const emottt = {
       exp: '⚡ Experiencia',
-      Helado: '🍨 Cookies',
+      Cookies: '❤ Cookies',
       diamond: '💎 Diamante',
       joincount: '💰 Token',
       emerald: '💚 Esmeralda',
