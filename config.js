@@ -20,7 +20,7 @@ global.owner = [
 ];
 
 //• ↳𝑺𝑶𝑳𝑶 𝑴𝑶𝑫𝑬𝑹𝑨𝑫𝑶𝑹𝑬𝑺!
-global.mods = ['584120505140', '5218711426787', '', '', '']
+global.mods = ['584120505140', '5841645860', '', '', '']
 
 global.suittag = ['584120405140']
 global.prems = ['584120405140']
@@ -31,7 +31,7 @@ global.libreria = 'Baileys'
 global.baileys = 'V 6.7.8'
 global.vs = '3.0.3'
 global.languaje = 'Español'
-global.nameqr = 'Akitzu-Bot'
+global.nameqr = 'Akitzu-Bot-MD'
 global.sessions ='AkitzuSession'
 global.jadi = '⏤͟͞ू⃪ ፝͜⁞𝐀𝐤𝐢𝐭𝐳𝐮⃟⌑ᴶᵃᵈᶦᴮᵒᵗ✰⃔࿐ೄྀ'
 
@@ -93,11 +93,11 @@ global.estilo = { key: {  fromMe: false, participant: `0@s.whatsapp.net`, ...(fa
 
 global.fakegif2 = { key: { participant: `0@s.whatsapp.net`, ...(false ? { remoteJid: "5219992095479-1625305606@g.us" } : {}) }, message: { videoMessage: { title: '𝑨𝒌𝒊𝒛𝒖', h: `Hmm`, seconds: '99999', gifPlayback: true, caption: '⚘݄𖠵⃕⁖𖥔.𝐁𝐢𝐞𝐧𝐯𝐞𝐧𝐢𝐝𝐨❞ ꔷ──᜔◇⃟̣̣⃕✨', jpegThumbnail: logo5 }}};
 
-global.fakegif3 = { key: { participant: `0@s.whatsapp.net`, ...(false ? { remoteJid: "5219992095479-1625305606@g.us" } : {}) }, message: { videoMessage: { title: '𝑨𝒌𝒊𝒕𝒛𝒖', h: `Hmm`, seconds: '99999', gifPlayback: true, caption: '⚘݄𖠵⃕⁖𝐓𝐨𝐧𝐭𝐨 (￣へ ￣ ) 🔥', jpegThumbnail: logo3 }}};
+global.fakegif3 = { key: { participant: `0@s.whatsapp.net`, ...(false ? { remoteJid: "584169458860-1625305606@g.us" } : {}) }, message: { videoMessage: { title: '𝑨𝒌𝒊𝒕𝒛𝒖', h: `Hmm`, seconds: '99999', gifPlayback: true, caption: '⚘݄𖠵⃕⁖𝐓𝐨𝐧𝐭𝐨 (￣へ ￣ ) 🔥', jpegThumbnail: logo3 }}};
 
 global.fakegif4 = { key: { participant: `0@s.whatsapp.net`, ...(false ? { remoteJid: "5219992095479-1625305606@g.us" } : {}) }, message: { videoMessage: { title: '𝑨𝒌𝒊𝒕𝒛𝒖', h: `Hmm`, seconds: '99999', gifPlayback: true, caption: '⚘݄𝘼𝙠𝙞𝙩𝙯𝙪-𝘽𝙤𝙩💥', jpegThumbnail: logo5 }}};
 
-global.fgif2 = { key: {participant: `0@s.whatsapp.net`, ...(false ? { remoteJid: "6289643739077-1613049930@g.us" } : {})},message: {"videoMessage": { "title":`͟͞⏤͟͞ू⃪ ፝͜⁞𝙈𝙞𝙯𝙪𝙠𝙞☄︎⃟ᵀᵒⁿʸ✰⃔࿐ೄྀ`, "h": `Hmm`,'seconds': '99999', 'gifPlayback': 'true', 'caption': `⏤͟͞ू⃪ ፝͜⁞Akitzu✰⃔࿐\n ⏤͟͞ू⃪ ፝͜⁞𝙈𝙞𝙯𝙪𝙠𝙞☄︎⃟ᵀᵒⁿʸ✰⃔࿐ೄྀ`, 'jpegThumbnail': logo4 }}}
+global.fgif2 = { key: {participant: `0@s.whatsapp.net`, ...(false ? { remoteJid: "6289643739077-1613049930@g.us" } : {})},message: {"videoMessage": { "title": '`͟͞⏤͟͞ू⃪ ፝͜⁞𝙈𝙞𝙯𝙪𝙠𝙞☄︎⃟ᵀᵒⁿʸ✰⃔࿐ೄྀ`, "h": `Hmm`,'seconds': '99999', 'gifPlayback': 'true', 'caption': `⏤͟͞ू⃪ ፝͜⁞Akitzu✰⃔࿐\n ⏤͟͞ू⃪ ፝͜⁞𝙈𝙞𝙯𝙪𝙠𝙞☄︎⃟ᵀᵒⁿʸ✰⃔࿐ೄྀ`, 'jpegThumbnail': logo4 }}}
 
 //• ↳ ◜𝑳𝑰𝑵𝑲𝑺◞ • 🌿
 global.gp4 = 'https://chat.whatsapp.com/LOuWVRTooHxLtTEU10Pr6K' //Grupo Oficial De Akitzu
@@ -396,7 +396,7 @@ global.rpgshop = { // Tienda
     string = string.toLowerCase();
     const emottt = {
       exp: '⚡ Experiencia',
-      Cookies: '❤ Cookies',
+      Helado: '🍨 Cookies',
       diamond: '💎 Diamante',
       joincount: '💰 Token',
       emerald: '💚 Esmeralda',
